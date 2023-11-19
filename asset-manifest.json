@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MOKE-Travel/static/css/main.e8faca5b.css",
+    "main.js": "/MOKE-Travel/static/js/main.bc120d60.js",
+    "static/js/787.d4aba7ab.chunk.js": "/MOKE-Travel/static/js/787.d4aba7ab.chunk.js",
+    "static/media/2023-08-17.png": "/MOKE-Travel/static/media/2023-08-17.df2e63e20f5ec96608d9.png",
+    "static/media/place.svg": "/MOKE-Travel/static/media/place.7d64241c68d27142eb06e55910cd545d.svg",
+    "index.html": "/MOKE-Travel/index.html",
+    "static/media/logo.svg": "/MOKE-Travel/static/media/logo.5c4eda4450d0e16102da816513cee50f.svg",
+    "main.e8faca5b.css.map": "/MOKE-Travel/static/css/main.e8faca5b.css.map",
+    "main.bc120d60.js.map": "/MOKE-Travel/static/js/main.bc120d60.js.map",
+    "787.d4aba7ab.chunk.js.map": "/MOKE-Travel/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8faca5b.css",
+    "static/js/main.bc120d60.js"
+  ]
+}
